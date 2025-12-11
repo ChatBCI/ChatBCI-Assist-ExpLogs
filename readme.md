@@ -6,7 +6,7 @@ The system includes **10 subjects**, each completing **3 online sessions**, and 
 ChatBCI is a P300 speller brain–computer interface (BCI)  integrated with large language models (LLMs).  
 Depending on the online session type, the backend may be:
 
-- **Dictionary-based predictive spelling** (Copy-Dict)
+- **Dictionary-based predictive spelling** (Copy-Baseline)
 - **LoRA-finetuned Llama-based word/phrase prediction** (Copy-LLM)
 - **Semantic-level LLM intent-driven phrase prediction** (Semantic-LLM)
 
@@ -46,7 +46,7 @@ means:
 | Component | Meaning |
 |----------|---------|
 | `S01` | Subject ID |
-| `O1` | Online Session 1 (Copy-Dict) |
+| `O1` | Online Session 1 (Copy-Baseline) |
 | `O2` | Online Session 2 (Copy-LLM) |
 | `O3` | Online Session 3 (Semantic-LLM) |
 | `T1` | Typing Task 1 (Database sentences)
@@ -83,7 +83,7 @@ The order of the three sessions was **randomized** for each subject to minimize 
 
 # 🧩 Online Session Types
 
-## **Online Session 1 — Copy-Dict (Baseline)**
+## **Online Session 1 — Copy-Baseline**
 
 Uses a **dictionary-based predictive spelling** backend.
 
@@ -185,7 +185,7 @@ Example:
 
 Notes:
 
-- Copy-Dict → 6 single-word suggestions  
+- Copy-Baseline → 6 single-word suggestions  
 - Copy-LLM / Semantic-LLM → includes multi-word phrases where available  
 - Can be aligned with `selectLog.txt` to reconstruct user behavior
 
