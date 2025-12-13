@@ -1,5 +1,7 @@
 # ChatBCI-Assist Experiment-Logs
 
+
+
 This repository contains the **real-time experimental logs** collected from the 2025 **ChatBCI-Assist** study.  
 The system includes **10 subjects**, each completing **3 online sessions**, and each session containing **3 typing tasks** (T1–T3). For the specific sentences used in each typing task, please see the [Sentence summary](#sentence-summary) section at the end of this README.
 
@@ -13,10 +15,12 @@ Depending on the online session type, the backend may be:
 User experience was assessed after each online session using standardized subjective questionnaires, including NASA-TLX, VAS-F, and assistive technology usability scales.
 [![ChatBCI-Assist Questionnaires](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen?logo=streamlit)](https://chatbci-assist-questionnaires-live.streamlit.app/)
 
+
+## 🎬 Demonstration of Semantic-LLM
+[▶️ Click to watch the demo video](ChatBCI-Assist-demo.mp4)
+
+
 These logs represent real-time **in-vivo closed-loop BCI spelling behaviors**, including character/word selections, suggestions, and sentence evolution.
-
-
-
 
 ---
 
