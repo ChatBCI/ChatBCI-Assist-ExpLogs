@@ -18,19 +18,15 @@ User experience was assessed after each online session using standardized subjec
 
 ## 🎥 System Demonstration
 
-A real-time demonstration of the **ChatBCI-Assist Semantic-LLM speller**
+A real-time demonstration of the **ChatBCI-Assist (Semantic-LLM)**
 can be viewed here:
-
 👉 **[Watch the Demo Video](https://chatbci.github.io/ChatBCI-Assist-ExpLogs/)**
-
 (The video plays directly in the browser via GitHub Pages.)
-
-
-These logs represent real-time **in-vivo closed-loop BCI spelling behaviors**, including character/word selections, suggestions, and sentence evolution.
 
 ---
 
 # 📁 Folder Structure
+These logs represent real-time **in-vivo closed-loop BCI spelling behaviors**, including character/word selections, suggestions, and sentence evolution.
 
 ```
 ChatBCI-Experiment-Logs/
@@ -50,6 +46,7 @@ ChatBCI-Experiment-Logs/
 ├── S02/
 ├── …
 ├── S10/
+├── docs/
 └── README.md
 ```
 
