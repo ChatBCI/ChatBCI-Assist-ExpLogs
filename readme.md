@@ -16,7 +16,7 @@ User experience was assessed after each online session using standardized subjec
 [![ChatBCI-Assist Questionnaires](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen?logo=streamlit)](https://chatbci-assist-questionnaires-live.streamlit.app/)
 
 
-## 🎥 System Demonstration
+## 🎥 Demonstration
 
 A real-time demonstration of the **ChatBCI-Assist (Semantic-LLM)**
 can be viewed here:
