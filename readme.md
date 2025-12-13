@@ -16,8 +16,14 @@ User experience was assessed after each online session using standardized subjec
 [![ChatBCI-Assist Questionnaires](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen?logo=streamlit)](https://chatbci-assist-questionnaires-live.streamlit.app/)
 
 
-## 🎬 Demonstration of Semantic-LLM
-[▶️ Click to watch the demo video](ChatBCI-Assist-demo.mp4)
+## 🎥 System Demonstration
+
+A real-time demonstration of the **ChatBCI-Assist Semantic-LLM speller**
+can be viewed here:
+
+👉 **[Watch the Demo Video](https://chatbci.github.io/ChatBCI-Assist-Experiment-Logs/)**
+
+(The video plays directly in the browser via GitHub Pages.)
 
 
 These logs represent real-time **in-vivo closed-loop BCI spelling behaviors**, including character/word selections, suggestions, and sentence evolution.
