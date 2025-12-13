@@ -20,7 +20,9 @@ User experience was assessed after each online session using standardized subjec
 
 A real-time demonstration of the **ChatBCI-Assist (Semantic-LLM)**
 can be viewed here:
+
 👉 **[Watch the Demo Video](https://chatbci.github.io/ChatBCI-Assist-ExpLogs/)**
+
 (The video plays directly in the browser via GitHub Pages.)
 
 ---
