@@ -11,7 +11,7 @@ Depending on the online session type, the backend may be:
 - **Semantic-level LLM intent-driven phrase prediction** (Semantic-LLM)
 
 User experience was assessed after each online session using standardized subjective questionnaires, including NASA-TLX, VAS-F, and assistive technology usability scales.
-[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen?logo=streamlit)](https://chatbci-assist-questionnaires-live.streamlit.app/)
+[![ChatBCI-Assist Questionnaires](https://img.shields.io/badge/Live%20App-Streamlit-brightgreen?logo=streamlit)](https://chatbci-assist-questionnaires-live.streamlit.app/)
 
 These logs represent real-time **in-vivo closed-loop BCI spelling behaviors**, including character/word selections, suggestions, and sentence evolution.
 
