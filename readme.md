@@ -209,7 +209,7 @@ Notes:
 ### Note: Time Limit and Log Truncation
 
 Each spelling task (T1–T3) is limited to **10 minutes**.  
-If a task exceeds this time limit, the experiment is manually terminated. Due to the **dynamic stopping strategy** in the P300 detection paradigm, the actual stop moment may not align perfectly with the 10-minute boundary, and the final timestamps may reflect slight offsets.
+If a task exceeds this time limit, the experiment is manually terminated. Due to the **adaptive stopping strategy** in the P300 detection paradigm, the actual stop moment may not align perfectly with the 10-minute boundary, and the final timestamps may reflect slight offsets.
 
 For consistency across subjects, we define the **last timestamp within the 10-minute window** as the effective end of the task.  
 All log-based analyses (e.g., time to complete (T2C)) use this truncated endpoint as the valid stopping point.
